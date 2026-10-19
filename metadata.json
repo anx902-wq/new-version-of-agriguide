@@ -1,0 +1,6 @@
+{
+  "name": "KisanSense - Hyperlocal Agri Weather & Pest Shield",
+  "description": "Hyperlocal microclimate weather, soil moisture analytics, real-time crop stage tracking, and AI-powered pest and disease early warnings for smallholder farmers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
